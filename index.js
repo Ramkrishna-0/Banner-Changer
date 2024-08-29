@@ -15,7 +15,7 @@ const rl = readline.createInterface({
 console.log("\x1b[36m=========================================\x1b[0m");
 console.log("\x1b[35;47m          Welcome to Banner Changer          \x1b[0m");
 console.log("\x1b[36m=========================================\x1b[0m");
-console.log("\x1b[35;47m        Developed by Ghost Planet        \x1b[0m");
+console.log("\x1b[35;47m        Developed by Ramkrishna0       \x1b[0m");
 console.log("\x1b[36m=========================================\x1b[0m");
 console.log(" ");
 console.log("\x1b[31mIf you don't trust us, you can reset your token after you've completed your work.\x1b[0m");
